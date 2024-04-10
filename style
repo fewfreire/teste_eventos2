@@ -1,0 +1,21 @@
+/* Estilos para estilizar os dados da planilha */
+.evento {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin-bottom: 16px;
+  display: none; /* Inicialmente ocultar todos os eventos */
+  font-family: 'Titillium Web', sans-serif; /* Fonte Titillium Web */
+  font-size: 10px; /* Tamanho da fonte 10 */
+}
+
+/* Estilos para estilizar o menu de filtro */
+.filtro {
+  margin-bottom: 10px;
+  font-family: 'Titillium Web', sans-serif; /* Fonte Titillium Web */
+  font-size: 10px; /* Tamanho da fonte 10 */
+}
+
+.filtro option {
+  color: #f2722a; /* Cor da opção de filtro */
+}
